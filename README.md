@@ -28,7 +28,7 @@ This project has several step :
 - Gain greater experience of using ML algorithms,deep learning and transfer learning and CNN and other concept on practical datasets(from huggingface)
 - Performing necessary data collection and data cleaning.
   
-    ULTIMATE GOAL:
+  ULTIMATE GOAL:
 - To increase the accuracy of the prediction of the model.
 - And make the model better so that its performance could become good .
  
